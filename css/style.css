@@ -121,9 +121,7 @@ main{
         grid-template-columns: minmax(300px, 500px);
         justify-content: center;
     }
-    .hero-img{
-        display: none; /* desaparecr la imagen cuando se vuelve responsive */
-    }
+   
     .dishes-grid{
         grid-template-columns: repeat(auto-fit, minmax(75px, 100px));
     }
