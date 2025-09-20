@@ -120,6 +120,7 @@ main{
     .hero{
         grid-template-columns: minmax(300px, 500px);
         justify-content: center;
+        margin: 100px;
     }
    
     .dishes-grid{
