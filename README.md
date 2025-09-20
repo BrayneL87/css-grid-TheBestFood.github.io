@@ -1,6 +1,5 @@
 # css-grid-TheBestFood.github.io
----
-https://braynel87.github.io/css-grid-TheBestFood.github.io/
+
 ---
 
 # 🍝 The Best Food - Landing Page
@@ -36,11 +35,27 @@ Proyecto de página web de restaurante usando HTML5 y CSS Grid. Incluye diseño 
 
 ## 📂 Estructura del proyecto
 
+- 📂 css-grid-TheBestFood.github.io/
+
+- 📂css
+
+- |||── style.css
+
+- |📂│── img/
+
+- │── index.html
+
+- └── README.md
+
 ---
 
 ## ▶️ Cómo usarlo
 
-https://braynel87.github.io/css-grid-TheBestFood.github.io/
+- Clona este repositorio:
+- git clone https://braynel87.github.io/css-grid-TheBestFood.github.io/
+- Abre el archivo index.html en tu navegador.
+
+¡Listo! Disfruta del restaurante.
 
 ---
 
